@@ -1,5 +1,5 @@
 # RoShield
-RoShield is a security tool designed to scan Roblox users and alert you about potential risks, such as scammers and inappropriate individuals.
+- RoShield is a security tool designed to scan Roblox users and alert you about potential risks, such as scammers and inappropriate individuals.
 
 # How It Works
 RoShield scans user profiles and their connections to identify potentially harmful interactions. It helps you stay informed and make safer decisions about who to trust.
