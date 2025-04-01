@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RoShield
     RoShield is a security tool designed to scan Roblox users and alert you about potential risks, such as scammers and inappropriate individuals.
 
@@ -9,3 +10,6 @@
 
 # Is RoShield Safe?
     Yes! RoShield is completely safe. You only need to provide your main Roblox UserID, and it will analyze your connections without requiring your password or login details.
+=======
+# RoShield
+>>>>>>> 7cf3d8f51f920e33f010cf681cf28d9bc3ce5b6b
