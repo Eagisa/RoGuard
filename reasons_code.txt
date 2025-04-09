@@ -1,0 +1,9 @@
+REASON_CODES = {
+    0: "No Violations",
+    1: "Phishing Activity",
+    2: "Predatory Behavior",
+    3: "Excessive Spamming",
+    4: "Suspicious Connections",
+    5: "Suspicious Account is Too New",
+    6: "Member of a Group Flagged for Scam Activity"
+}
