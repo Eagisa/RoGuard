@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "RoShield",
+  "version": "1.0",
+  "description": "Flags suspicious Roblox friend requests.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.roblox.com/users*"
+      ],
+      "js": ["main.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [
+    "https://www.roblox.com/",
+    "https://raw.githubusercontent.com/*"
+  ]
+}
