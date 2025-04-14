@@ -1,4 +1,4 @@
-const GITHUB_JSON_URL = "https://raw.githubusercontent.com/Eagisa/RoShield/refs/heads/main/Flagged_Accounts.json";
+const GITHUB_JSON_URL = "https://raw.githubusercontent.com/Eagisa/RoGuard/refs/heads/main/Flagged_Accounts.json";
 
 const REASON_CODES = {
     0: "No Violations",
@@ -52,7 +52,7 @@ function injectMessages(flaggedData) {
             width: 20px;
             height: 20px;
             border-radius: 50%;
-            background-color: #ff4d4d;
+            background-color:rgb(229, 30, 5);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -135,7 +135,7 @@ function injectIntoProfilePage(flaggedData) {
     icon.className = "alert-icon";
     icon.innerText = "!";
     icon.style.cssText = `
-        background-color: #ff4d4d;
+        background-color:rgb(229, 30, 5);
         color: white;
         border-radius: 50%;
         width: 20px;
@@ -223,7 +223,7 @@ function createAlertIcon(reasonDescriptions) {
     icon.className = "alert-icon";
     icon.innerText = "!";
     icon.style.cssText = `
-        background-color: #ff4d4d;
+        background-color:rgb(229, 30, 5);
         color: white;
         border-radius: 50%;
         width: 20px;
