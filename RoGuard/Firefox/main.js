@@ -1,4 +1,4 @@
-const GITHUB_JSON_URL = "https://raw.githubusercontent.com/Eagisa/RoGuard/refs/heads/main/Flagged_Accounts.json";
+const GITHUB_JSON_URL = "https://raw.githubusercontent.com/Eagisa/RoGuard/refs/heads/main/data/Flagged_Accounts.json";
 
 const REASON_CODES = {
     0: "No Violations",
